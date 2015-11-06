@@ -1,4 +1,4 @@
-# NSDate-Chat
+# NSDate+Chat
 
   This class was created to add chat like date for messaging and posts
   The dates are as follow:
